@@ -1,0 +1,16 @@
+.grid-container {
+    display: grid;
+}
+body {
+    font-family: "Josefin Sans";
+    margin: 0;
+}
+
+.header {
+    padding: 70px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 55px;
+    font-family: "Josefin Sans";
+}
